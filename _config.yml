@@ -1,0 +1,10 @@
+# Legal documents of the apps published by Kyohei Izumi.
+defaults:
+  - scope:
+      path: "pdfnote/*-ja.md"
+    values:
+      lang: ja
+  - scope:
+      path: "pdfnote/*-en.md"
+    values:
+      lang: en
